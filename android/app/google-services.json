@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160915101945",
+    "project_id": "mindlink-705ac",
+    "storage_bucket": "mindlink-705ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160915101945:android:7ca16024d927fe62acea28",
+        "android_client_info": {
+          "package_name": "com.example.weblink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4DykmGq1bAgUH8Xm2GKVGkvuNj7Jdzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
